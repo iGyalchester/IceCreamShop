@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/IceCreamShop/static/css/main.78104287.chunk.css",
+    "main.js": "/IceCreamShop/static/js/main.44b8d0ae.chunk.js",
+    "main.js.map": "/IceCreamShop/static/js/main.44b8d0ae.chunk.js.map",
+    "runtime-main.js": "/IceCreamShop/static/js/runtime-main.0329a880.js",
+    "runtime-main.js.map": "/IceCreamShop/static/js/runtime-main.0329a880.js.map",
+    "static/js/2.0a1694f7.chunk.js": "/IceCreamShop/static/js/2.0a1694f7.chunk.js",
+    "static/js/2.0a1694f7.chunk.js.map": "/IceCreamShop/static/js/2.0a1694f7.chunk.js.map",
+    "static/js/3.3c26b9c5.chunk.js": "/IceCreamShop/static/js/3.3c26b9c5.chunk.js",
+    "static/js/3.3c26b9c5.chunk.js.map": "/IceCreamShop/static/js/3.3c26b9c5.chunk.js.map",
+    "index.html": "/IceCreamShop/index.html",
+    "static/css/main.78104287.chunk.css.map": "/IceCreamShop/static/css/main.78104287.chunk.css.map",
+    "static/js/2.0a1694f7.chunk.js.LICENSE.txt": "/IceCreamShop/static/js/2.0a1694f7.chunk.js.LICENSE.txt",
+    "static/media/mint.701a28f4.png": "/IceCreamShop/static/media/mint.701a28f4.png",
+    "static/media/straw.62bae56d.png": "/IceCreamShop/static/media/straw.62bae56d.png",
+    "static/media/van.a2049ea6.png": "/IceCreamShop/static/media/van.a2049ea6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0329a880.js",
+    "static/js/2.0a1694f7.chunk.js",
+    "static/css/main.78104287.chunk.css",
+    "static/js/main.44b8d0ae.chunk.js"
+  ]
+}
