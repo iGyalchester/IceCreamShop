@@ -29,7 +29,7 @@ const App = () => {
     if (count0 < 10) {
       setCount0(count0 + 1);
     } else {
-      alert("You cannot order more than 10 Strawberry Ice Cream");
+      alert("You cannot order more than 10 Strawberry Ice Cream!");
     }
     getJoke();
   };
@@ -38,7 +38,7 @@ const App = () => {
     if (count1 < 10) {
       setCount1(count1 + 1);
     } else {
-      alert("You cannot order more than 10 Chocolate Ice Cream");
+      alert("You cannot order more than 10 Chocolate Ice Cream!");
     }
     getJoke();
   };
@@ -46,7 +46,7 @@ const App = () => {
   const decrement = () => {
     if (count === 0) {
       setCount(0);
-      alert("You cannot buy less than 0 items");
+      alert("You cannot buy less than 0 items!");
     } else {
       setCount(count - 1);
     }
@@ -56,7 +56,7 @@ const App = () => {
   const decrement0 = () => {
     if (count0 === 0) {
       setCount0(0);
-      alert("You cannot buy less than 0 items");
+      alert("You cannot buy less than 0 items!");
     } else {
       setCount0(count0 - 1);
     }
@@ -66,7 +66,7 @@ const App = () => {
   const decrement1 = () => {
     if (count1 === 0) {
       setCount1(0);
-      alert("You cannot buy less than 0 items");
+      alert("You cannot buy less than 0 items!");
     } else {
       setCount1(count1 - 1);
     }
